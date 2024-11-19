@@ -12,7 +12,7 @@ Convertir variables categóricas a formato numérico utilizando LabelEncoder.
 Realizar limpieza y preprocesamiento de datos.                                                                                                          
 
 # Desarrollar modelos predictivos:                                                                                                                                                                                                                                                        
-Implementar Árboles de Decisión utilizando los criterios Gini y Entropía.
+Implementar Árboles de Decisión utilizando los criterios Gini y Entropía.                                                                                                             
 Experimentar con diferentes niveles de profundidad del árbol para optimizar el rendimiento.                                                                                 
 
 # Evaluar el desempeño del modelo:                                                                                                                                                     
